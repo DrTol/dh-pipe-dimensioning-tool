@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F01JB1KE)
+
 # District Heating Pipe Dimensioning Tool - Python
 A lightweight, CSV-driven Python toolkit for hydraulic dimensioning of branched (radial) district heating (DH) networks using the Pressure Gradient / Target Pressure Loss method. The repository includes a minimal, reproducible input dataset and a QGIS project for spatial context, plus utilities for topology checks (e.g., `diagnose_cycles.py`). Results are written to a single Excel workbook with separate sheets for mains and service pipes.
 
