@@ -1,0 +1,2 @@
+﻿Space_Heating_kW;Domestic_Hot_Water_kW;Supply_Temperature_degC;Return_Temperature_sh_degC;Return_Temperature_dhw_degC;Pump_Head_Lift_bar;End-User_Differential_Pressure_bar
+7;23;55;25;12;6;0.5
