@@ -62,7 +62,7 @@ Python ≥ 3.9 with (`pandas`, `numpy`, `openpyxl`)
 * **Catalogue dependence**: Only sizes present in `pipe_catalogue.csv` can be selected.
 
 ## Citing
-* Tol, Hakan İbrahim. District Heating in Areas with Low Energy Houses – Detailed Analysis of District Heating Systems Based on Low Temperature Operation and Use of Renewable Energy. PhD diss. Technical University of Denmark, 2015. 
+* Tol, Hakan İbrahim. District Heating in Areas with Low Energy Houses – Detailed Analysis of District Heating Systems Based on Low Temperature Operation and Use of Renewable Energy. PhD diss. Technical University of Denmark, 2015. https://orbit.dtu.dk/en/publications/district-heating-in-areas-with-low-energy-houses-detailed-analysi 
 * Tol, Hakan İbrahim; Svendsen, Svend. 2012. Improving the dimensioning of piping networks and network layouts in low-energy district heating systems connected to low-energy buildings: A case study in Roskilde, Denmark. Energy 38 (1): 276–290. https://doi.org/10.1016/j.energy.2011.12.002
 
 ## License
